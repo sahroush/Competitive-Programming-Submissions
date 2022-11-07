@@ -1,6 +1,4 @@
-# Codeforces-submissions
-
-## User Details ([Tet](https://codeforces.com/profile/Tet))
+## [Tet](https://codeforces.com/profile/Tet)
 
 ```.json
 {
