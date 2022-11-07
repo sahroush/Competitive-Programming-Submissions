@@ -1,11 +1,5 @@
 # Codeforces-submissions
 
-## Intro
-
-This is a repository to keep track of my problem solving practice.
-For now, It contains all the problems I have solved at 
-- **[Codeforces](https://codeforces.com/)** 
-
 ## User Details ([Tet](https://codeforces.com/profile/Tet))
 
 ```.json
