@@ -2,8 +2,6 @@
 
 ## Intro
 
->	Automated by [cp-tool](https://github.com/jspw/cp-tool)
-
 This is a repository to keep track of my problem solving practice.
 For now, It contains all the problems I have solved at 
 - **[Codeforces](https://codeforces.com/)** 
@@ -16,7 +14,7 @@ For now, It contains all the problems I have solved at
 	"organization" : "The Wrong Side Of Heaven",
 	"rank" : "candidate master",
 	"rating" : 2075,
-	"contribution" : 66,
+	"max contribution" : 113,
 	"maxRank" : "candidate master",
 	"maxRating" : 2075,
 	"joined" : "2019",
