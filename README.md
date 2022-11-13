@@ -1,14 +1,26 @@
-## [Tet](https://codeforces.com/profile/Tet)
+## [Codeforces](https://codeforces.com/profile/Tet)
 
 ```.json
 {
 	"handle" : "Tet",
-	"organization" : "The Wrong Side Of Heaven",
 	"rank" : "candidate master",
 	"rating" : 2075,
 	"max contribution" : 113,
 	"maxRank" : "candidate master",
 	"maxRating" : 2075,
+	"joined" : "2019",
+}
+
+```
+## [Atcoder](https://atcoder.jp/users/soroush)
+
+```.json
+{
+	"handle" : "soroush",
+	"rank" : "2 Kyu",
+	"rating" : 1657,
+	"maxRank" : "2 Kyu",
+	"maxRating" : 1711,
 	"joined" : "2019",
 }
 
